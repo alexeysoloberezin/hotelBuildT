@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="caa12439-b03e-4d3d-9f88-f12770a7f1f7" name="Changes" comment="fix">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ArrowDownWhite.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/ArrowDownWhite.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/IMG_4931.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/IMG_4931.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/OffTheDrid.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/OffTheDrid.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/PetalBig.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/PetalBig.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/about1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/about1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/about1.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/about1.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/about2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/about2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/about2.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/about2.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/about3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/about3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/about3.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/about3.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/about4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/about4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/about4.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/about4.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/about5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/about5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/about5.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/about5.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/aboutBg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/aboutBg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/aboutImg1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/aboutImg1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/aboutImg2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/aboutImg2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/aboutImg3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/aboutImg3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/aboutImg4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/aboutImg4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/aboutImg5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/aboutImg5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/aboutImg6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/aboutImg6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/accom1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/accom1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/accom1.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/accom1.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/accom2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/accom2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/accom2.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/accom2.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/accom3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/accom3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/accom3.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/accom3.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/accommodation1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/accommodation1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/accommodation1.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/accommodation1.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/accommodation2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/accommodation2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/accommodation2.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/accommodation2.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/accommodation3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/accommodation3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/accommodation3.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/accommodation3.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/accommodation4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/accommodation4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/accommodation4.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/accommodation4.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/accommodation5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/accommodation5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/accommodation5.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/accommodation5.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/accommodation6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/accommodation6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/accommodation6.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/accommodation6.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/acodd.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/acodd.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/acodd.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/acodd.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/add/add1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/add/add1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/add/add2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/add/add2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/add/add3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/add/add3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/android-chrome-192x192.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/android-chrome-192x192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/android-chrome-256x256.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/android-chrome-256x256.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/apart1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/apart1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/apart2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/apart2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/apart3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/apart3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/apart4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/apart4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/apple-touch-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/awaken1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/awaken1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/awaken2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/awaken2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/awaken3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/awaken3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/awaken4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/awaken4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/awaken4.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/awaken4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/awaken5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/awaken5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bar.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/bar.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bar.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/public/bar.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bar1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/bar1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bar1.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/bar1.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bar2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/bar2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bar2.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/bar2.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bar3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/bar3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bar3.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/bar3.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bar4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/bar4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bar4.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/bar4.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bar5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/bar5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bar5.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/bar5.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/barBg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/barBg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/barBg2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/barBg2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bg1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/bg1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bg1.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/bg1.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bg5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/bg5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/bnrr.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/bnrr.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/browserconfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/browserconfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/brr.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/brr.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/brr2.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/brr2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/catering/catering1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/catering/catering1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/catering/catering2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/catering/catering2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/catering/catering3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/catering/catering3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/cbx.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/cbx.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/cbxRed.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/cbxRed.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/decor/dc_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/decor/dc_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/decor/dc_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/decor/dc_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/decor/dc_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/decor/dc_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/decor/dc_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/decor/dc_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/decor/decor1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/decor/decor1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/decor/decor2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/decor/decor2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/decor/decor3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/decor/decor3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/decor/decor4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/decor/decor4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dermap.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/dermap.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/emi.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/emi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ev/ev1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/ev/ev1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ev/ev2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/ev/ev2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ev/ev3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/ev/ev3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ev/ev4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/ev/ev4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ev/ev5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/ev/ev5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ev/ev6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/ev/ev6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ev/events.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/ev/events.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ev/events.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/public/ev/events.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ev/events.webm" beforeDir="false" afterPath="$PROJECT_DIR$/public/ev/events.webm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/event/ev1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/event/ev1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/event/ev2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/event/ev2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/event/ev3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/event/ev3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/event/ev4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/event/ev4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/event/evv1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/event/evv1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/event/evv2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/event/evv2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/event/evv3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/event/evv3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/examples/videoplayback.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/public/examples/videoplayback.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/examples/videoplayback.webm" beforeDir="false" afterPath="$PROJECT_DIR$/public/examples/videoplayback.webm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/explore1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/explore1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/explore2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/explore2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/explore3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/explore3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/explore4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/explore4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/explore5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/explore5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/explore6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/explore6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/explore7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/explore7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/explore8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/explore8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fac_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/fac_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fac_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/fac_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fac_gr.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/fac_gr.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fac_pel_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/fac_pel_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fac_pel_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/fac_pel_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/faccilites.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/faccilites.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/facials_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/facials_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/facials_1.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/facials_1.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/facials_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/facials_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/facials_2.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/facials_2.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/facials_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/facials_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/facials_3.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/facials_3.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/facials_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/facials_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/facials_4.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/facials_4.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/facials_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/facials_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/facials_5.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/facials_5.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon-16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon-16x16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon-32x32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fc_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/fc_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fc_1jpg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/fc_1jpg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fc_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/fc_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fc_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/fc_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/file.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/file.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/globe.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/globe.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/icon_faq1.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/icon_faq1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/icon_faq2.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/icon_faq2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/icon_faq3.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/icon_faq3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/icons/ficon1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/icons/ficon1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/icons/ficon10.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/icons/ficon10.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/icons/ficon2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/icons/ficon2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/icons/ficon3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/icons/ficon3.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/icons/ficon4.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/icons/ficon4.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/icons/ficon5.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/icons/ficon5.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/icons/ficon6.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/icons/ficon6.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/icons/ficon7.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/icons/ficon7.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/icons/ficon8.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/icons/ficon8.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/icons/ficon9.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/icons/ficon9.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img111.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img111.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img113.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img113.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img114.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/img114.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/interior_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/interior_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/interior_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/interior_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/interior_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/interior_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/interior_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/interior_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/interior_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/interior_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/irisSpa.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/irisSpa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/loaderLogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/loaderLogo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logoBlack.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/logoBlack.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/mainPreview.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/mainPreview.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/mainPreview_mob.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/mainPreview_mob.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/massage_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/massage_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/massage_1.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/massage_1.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/massage_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/massage_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/massage_2.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/massage_2.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/menu/menu_0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/menu/menu_0.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/menu/menu_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/menu/menu_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/menu/menu_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/menu/menu_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/menu/menu_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/menu/menu_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/menu/menu_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/menu/menu_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/menu/menu_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/menu/menu_5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/menu/menu_6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/menu/menu_6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/menu/menu_7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/menu/menu_7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/menu1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/menu1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/menu2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/menu2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/menu3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/menu3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/menu4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/menu4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/menu5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/menu5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/menuBar1.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/menuBar1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/menuBar2.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/menuBar2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/menuBar3.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/menuBar3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/menuBar4.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/menuBar4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/menuBar5.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/menuBar5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/menu_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/menu_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/menu_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/menu_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/mstile-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/mstile-150x150.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/navImg1.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/navImg1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/navImg1.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/navImg1.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/navImg2.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/navImg2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/navImg2.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/navImg2.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/navImg3.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/navImg3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/navImg3.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/navImg3.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/navImg4.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/navImg4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/navImg4.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/navImg4.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/navImg5.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/navImg5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/navImg5.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/navImg5.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/navImg6.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/navImg6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/navImg6.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/navImg6.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/nec1.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/nec1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/nec2.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/nec2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/nec3.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/nec3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/nec4.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/nec4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/nectar1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/nectar1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/nectar2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/nectar2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/nectar3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/nectar3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/next.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/next.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/our1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/our1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/our2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/our2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/our3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/our3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/our4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/our4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/our5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/our5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ourService_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/ourService_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ourService_1.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/ourService_1.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ourService_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/ourService_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ourService_2.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/ourService_2.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ourService_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/ourService_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ourService_3.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/ourService_3.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ourServices1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/ourServices1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ourServices2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/ourServices2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ourServices3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/ourServices3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ourServices4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/ourServices4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ourServices5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/ourServices5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ourServices6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/ourServices6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/pet.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/pet.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/petalLogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/petalLogo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/phil.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/phil.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/pric/pric1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/pric/pric1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/pric/pric2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/pric/pric2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/pric/pric3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/pric/pric3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/pric/pric4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/pric/pric4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/pric/pric5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/pric/pric5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/res1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/res1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/res2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/res2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/res3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/res3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/res4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/res4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resaurTextImg1.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/resaurTextImg1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resaurTextImg2.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/resaurTextImg2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/resaurTextImg3.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/resaurTextImg3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/roomBig1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/roomBig1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/roomBig1.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/roomBig1.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/roomBig2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/roomBig2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/roomBig2.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/roomBig2.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/roomBig3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/roomBig3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/roomBig3.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/roomBig3.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/roomBig4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/roomBig4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/roomBig4.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/roomBig4.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/roomBig5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/roomBig5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/roomBig5.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/roomBig5.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/roomBig6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/roomBig6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/roomBig6.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/roomBig6.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/roomKitchen1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/roomKitchen1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/roomKitchen2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/roomKitchen2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/roomKitchen3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/roomKitchen3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/roomKitchen4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/roomKitchen4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/safari-pinned-tab.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/safari-pinned-tab.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/site.webmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/public/site.webmanifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spa.gif" beforeDir="false" afterPath="$PROJECT_DIR$/public/spa.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spa.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/public/spa.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spa.webm" beforeDir="false" afterPath="$PROJECT_DIR$/public/spa.webm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spa1.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/spa1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spa1.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/spa1.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spa2.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/spa2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spa2.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/spa2.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spa3.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/spa3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spa3.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/spa3.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spa4.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/spa4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spa4.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/spa4.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spa5.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/spa5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spa5.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/spa5.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spa6.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/spa6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spa6.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/spa6.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spaImg.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/spaImg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spaImg_mob.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/spaImg_mob.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spaMain.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/spaMain.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spaRoom_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/spaRoom_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spaRoom_1.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/spaRoom_1.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spaRoom_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/spaRoom_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spaRoom_2.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/spaRoom_2.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spaRoom_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/spaRoom_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spaRoom_3.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/spaRoom_3.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spaRoom_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/spaRoom_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spaRoom_4.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/spaRoom_4.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spaRoom_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/spaRoom_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spaRoom_5.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/spaRoom_5.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spabg.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/spabg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/suite1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/suite1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/suite1.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/suite1.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/suite2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/suite2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/suite2.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/suite2.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/suite3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/suite3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/suite3.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/suite3.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/take1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/take1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/take2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/take2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/take3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/take3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/thanks.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/thanks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/timer.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/timer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vercel.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/vercel.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/videoplayback.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/videoplayback.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/videoplayback.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/public/videoplayback.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/wed/wed1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/wed/wed1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/wed/wed2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/wed/wed2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/wed/wed3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/wed/wed3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/window.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/window.svg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="923b8ecadad79a3e0d4316f033b0bd312da21cb7" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;alexeysoloberezin&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/alexeysoloberezin/hotelNext2.git&quot;,
+    &quot;accountId&quot;: &quot;7ce67255-ca6f-47eb-bf43-547b9a3b0539&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2o3OBWj0Xxyjz3VJrtNOIcERWxQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/maks/hotelOld/new/build",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.build.executor": "Run",
+    "npm.dev.executor": "Run",
+    "npm.lint.executor": "Run",
+    "ts.external.directory.path": "D:\\WebStorm 2024.1.5\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\maks\hotelOld\new\onnext\src\app\styles\fonts" />
+      <recent name="D:\maks\hotelOld\new\onnext\public" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="lint" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="lint" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.lint" />
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.18034.50" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="caa12439-b03e-4d3d-9f88-f12770a7f1f7" name="Changes" comment="" />
+      <created>1730094657438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730094657438</updated>
+      <workItem from="1730094658452" duration="3756000" />
+      <workItem from="1730244586475" duration="2895000" />
+      <workItem from="1730368080660" duration="503000" />
+      <workItem from="1730468824980" duration="493000" />
+      <workItem from="1730778858968" duration="9075000" />
+      <workItem from="1731400293895" duration="1074000" />
+      <workItem from="1731787115599" duration="8545000" />
+      <workItem from="1732881573926" duration="103000" />
+      <workItem from="1732959302209" duration="375000" />
+      <workItem from="1733237018472" duration="668000" />
+      <workItem from="1733603888481" duration="8446000" />
+      <workItem from="1733759332616" duration="4595000" />
+      <workItem from="1733877503267" duration="875000" />
+      <workItem from="1733894332084" duration="2129000" />
+      <workItem from="1733964929645" duration="8000" />
+      <workItem from="1734074659888" duration="5984000" />
+      <workItem from="1734363599408" duration="4593000" />
+      <workItem from="1734378941127" duration="1231000" />
+    </task>
+    <task id="LOCAL-00001" summary="zxc">
+      <option name="closed" value="true" />
+      <created>1730787117359</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730787117359</updated>
+    </task>
+    <task id="LOCAL-00002" summary="zxce">
+      <option name="closed" value="true" />
+      <created>1730787677185</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730787677185</updated>
+    </task>
+    <task id="LOCAL-00003" summary="213">
+      <option name="closed" value="true" />
+      <created>1731400992090</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731400992090</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added form with datepicker">
+      <option name="closed" value="true" />
+      <created>1731796807811</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731796807811</updated>
+    </task>
+    <task id="LOCAL-00005" summary="hotel">
+      <option name="closed" value="true" />
+      <created>1733612233491</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1733612233491</updated>
+    </task>
+    <task id="LOCAL-00006" summary="hotel zcx">
+      <option name="closed" value="true" />
+      <created>1733612772579</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1733612772579</updated>
+    </task>
+    <task id="LOCAL-00007" summary="zx">
+      <option name="closed" value="true" />
+      <created>1733759852702</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1733759852703</updated>
+    </task>
+    <task id="LOCAL-00008" summary="asd">
+      <option name="closed" value="true" />
+      <created>1733761545242</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1733761545242</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fix">
+      <option name="closed" value="true" />
+      <created>1733766166510</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1733766166510</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="zxc" />
+    <MESSAGE value="zxce" />
+    <MESSAGE value="213" />
+    <MESSAGE value="added form with datepicker" />
+    <MESSAGE value="hotel" />
+    <MESSAGE value="hotel zcx" />
+    <MESSAGE value="zx" />
+    <MESSAGE value="asd" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+  </component>
+</project>
